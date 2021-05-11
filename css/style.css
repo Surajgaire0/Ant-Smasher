@@ -1,0 +1,15 @@
+.container{
+    margin: 101px;
+    width: fit-content;
+}
+
+.canvas{
+    border:1px solid black;
+    cursor:crosshair;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(160, 115, 115);
+}
